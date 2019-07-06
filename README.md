@@ -16,7 +16,7 @@ $ python3 get_projectsize.py [location/to/requitements.txt]
 $ python3 -m get_projectsize [location/to/requitements.txt]
 ```
 
-The output could look lik:
+The output could look like:
 
 ```bash
 ...
